@@ -13,7 +13,20 @@
 [<img align="left" alt="behl1anmol | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
 
 <br />
+```html
+<h2>Example of code</h2>
 
+<pre>
+    <div class="container">
+        <div class="block two first">
+            <h2>Your title</h2>
+            <div class="wrap">
+            //Your content
+            </div>
+        </div>
+    </div>
+</pre>
+```
 ### Languages and Tools:
 
 [<img align="left" alt="Python" width="16px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png" />]
