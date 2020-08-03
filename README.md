@@ -23,7 +23,6 @@
 - Database Management Systems.
 - Visual Studio Code
 - Linux
-
 <br />
 
 ---
