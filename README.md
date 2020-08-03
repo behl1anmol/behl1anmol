@@ -23,7 +23,9 @@
 - Database Management Systems.
 - Visual Studio Code
 - Linux
+
 <br />
+
 ---
 
 ### 📕 Latest Blog Posts
