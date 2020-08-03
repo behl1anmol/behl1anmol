@@ -1,3 +1,4 @@
+[<script src="https://kit.fontawesome.com/837aa17e05.js" crossorigin="anonymous"></script>]
 ### Hi there, I'm Anmol - aka [behl1anmol][website] 👋
 
 ## I'm a Coder, Writer, and Developer!
@@ -13,23 +14,11 @@
 [<img align="left" alt="behl1anmol | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
 
 <br />
-
-<h2>Example of code</h2>
-
-<pre>
-    <div class="container">
-        <div class="block two first">
-            <h2>Your title</h2>
-            <div class="wrap">
-            //Your content
-            </div>
-        </div>
-    </div>
-</pre>
 ### Languages and Tools:
 
 [<img align="left" alt="Python" width="16px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png" />]
 [<img align="left" alt="C++" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cpp.svg" />]
+[<i align="left" alt="C++" width="16px" class="fas fa-atom"></i>]
 [<img align="left" alt="" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cpp.svg" />]
 [<img align="left" alt="Visual Studio Code" width="16px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="Git" width="16px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
