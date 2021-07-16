@@ -1,8 +1,8 @@
 ### Hi there, I'm Anmol - aka [behl1anmol][website] 👋
 
 ## I'm a Coder, Writer, and Developer!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Learn, Grow and Evolve.
+- 🌱 I’m currently learning and growing
+- 🥅 2021 Goals: Learn, Grow and Evolve.
 - ⚡ Fun fact: I love to discuss about latest tech trends.
 
 ### Connect with me:
@@ -18,6 +18,9 @@
 
 - C / C++
 - Python
+- JAVA
+- HTML/CSS
+- JavaScript
 - Machine Learning
 - Data Structures and Algorithms
 - Database Management Systems.
