@@ -25,7 +25,7 @@
 - Machine Learning
 - WPF, WinForms, Xamarin, MAUI
 - Data Structures and Algorithms
-- Database Management Systems.
+- Database Management Systems
 - Visual Studio Code
 - Linux
 
