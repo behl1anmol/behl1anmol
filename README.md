@@ -51,7 +51,7 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=behl1anmol&show_icons=true&hide_border=true" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danimonettelli&layout=compact&langs_count=7&theme=react"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danimonettelli&layout=compact&langs_count=7"/>
 
   
   
