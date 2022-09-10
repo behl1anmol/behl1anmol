@@ -28,7 +28,6 @@
 - Database Management Systems
 - Visual Studio Code
 - Linux
-- Visual Studio
 
 <br />
 
