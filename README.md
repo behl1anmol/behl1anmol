@@ -29,7 +29,6 @@
 - Visual Studio Code
 - Linux
 - Azure Functions
-
 <br />
 
 
