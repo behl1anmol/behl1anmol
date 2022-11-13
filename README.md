@@ -29,6 +29,7 @@
 - Visual Studio Code
 - Linux
 - Azure Functions
+- Azure DevOps
 <br />
 
 
