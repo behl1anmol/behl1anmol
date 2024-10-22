@@ -1,8 +1,8 @@
 ### Hi there, I'm Anmol - aka [behl1anmol][website] 👋
 
 ## I'm a Coder, Writer, and Developer!
-- 🌱 Software Engineer | Avid Learner
-- 🥅 2022 Goals: Learn, Grow and Evolve.
+- 🌱 Experienced Software Engineer | Avid Learner
+- 🥅 2024 Goals: Learn, Grow and Evolve.
 - ⚡ Fun fact: I love to discuss about latest tech trends.
 
 ### Connect with me:
@@ -20,10 +20,11 @@
 - Python
 - C#
 - VB.NET
+- Javascript
 - SQL Server
 - HTML/CSS
 - Machine Learning
-- WPF, WinForms, Xamarin, MAUI
+- WPF, WinForms, MAUI
 - Data Structures and Algorithms
 - Database Management Systems
 - Visual Studio Code
