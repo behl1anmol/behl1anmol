@@ -2,7 +2,7 @@
 
 ## I'm a Coder, Writer, and Developer!
 - 🌱 Experienced Software Engineer | Avid Learner
-- 🥅 2024 Goals: Learn, Grow and Evolve.
+- 🥅 2025 Goals: Learn, Grow and Evolve.
 - ⚡ Fun fact: I love to discuss about latest tech trends.
 
 ### Connect with me:
@@ -19,12 +19,13 @@
 - C / C++
 - Python
 - C#
-- VB.NET
-- Javascript
 - SQL Server
 - HTML/CSS
 - Machine Learning
-- WPF, WinForms, MAUI
+- WPF
+- ASP.Net Core Web API
+- Entity Framework Core
+- Linq
 - Data Structures and Algorithms
 - Database Management Systems
 - Visual Studio Code
