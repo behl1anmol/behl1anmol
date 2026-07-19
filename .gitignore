@@ -1,0 +1,7 @@
+# Private source photos — the portrait ships baked into the generated SVGs
+# (assets/neofetch-*.svg), so the raw photo stays local and out of the repo.
+assets/source/
+
+# Python build artifacts
+__pycache__/
+*.pyc

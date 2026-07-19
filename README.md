@@ -1,64 +1,71 @@
-### Hi there, I'm Anmol - aka [behl1anmol][website] 👋
+<div align="center">
 
-## I'm a Coder, Writer, and Developer!
-- 🌱 Experienced Software Engineer | Avid Learner
-- 🥅 2025 Goals: Learn, Grow and Evolve.
-- ⚡ Fun fact: I love to discuss about latest tech trends.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/neofetch-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/neofetch-light.svg">
+  <img src="assets/neofetch-dark.svg" alt="Anmol Behl — neofetch-style profile card: pixel-art portrait over a synthwave sunset, with a spec list of skills" width="100%">
+</picture>
 
-### Connect with me:
+<img src="https://komarev.com/ghpvc/?username=behl1anmol&style=flat-square&color=ff2d95&label=visitors" alt="profile visitors" />
 
-[<img align="left" alt="behl1anmol.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="behl1anmol | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="behl1anmol | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="behl1anmol | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
+</div>
 
-<br />
+<samp>
 
-### Languages and Tools:
+Senior Software Engineer who ships with agile teams — sprint planning to retro — and hunts efficiency gains along the way. I build on **.NET & Azure**, design with **SOLID / HLD / LLD**, and wire **GenAI tooling** (Copilot, Claude, Codex, MCP, Microsoft Agent Framework) into real developer workflows.
 
-- C / C++
-- Python
-- C#
-- SQL Server
-- HTML/CSS
-- Machine Learning
-- WPF
-- ASP.Net Core Web API
-- Entity Framework Core
-- Linq
-- Data Structures and Algorithms
-- Database Management Systems
-- Visual Studio Code
-- Linux
-- Azure Functions
-- Azure DevOps
-<br />
+</samp>
 
+## <samp>&gt; ls ~/projects --featured</samp>
 
----
+<!-- Cards are generated locally (scripts/generate_project_cards.py) because the
+     public github-readme-stats pin-card instance is paused. Re-run the script
+     to refresh stars/descriptions. -->
+<p align="center">
+  <a href="https://github.com/behl1anmol/Noesis"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/project-noesis-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/project-noesis-light.svg">
+    <img src="assets/project-noesis-dark.svg" alt="Noesis — AI-native code intelligence engine" width="290">
+  </picture></a>
+  <a href="https://github.com/behl1anmol/MediatorLite"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/project-mediatorlite-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/project-mediatorlite-light.svg">
+    <img src="assets/project-mediatorlite-dark.svg" alt="MediatorLite — lightweight, high-performance mediator library for .NET" width="290">
+  </picture></a>
+  <a href="https://github.com/behl1anmol/VideoStreamingFlask"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/project-videostreamingflask-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/project-videostreamingflask-light.svg">
+    <img src="assets/project-videostreamingflask-dark.svg" alt="VideoStreamingFlask — video streaming with Flask and OpenCV" width="290">
+  </picture></a>
+</p>
 
-### 📕 Latest Blog Posts
+## <samp>&gt; cat ~/connect</samp>
+
+<!-- Add future links as one more badge line below -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/behlanmol/"><img src="https://img.shields.io/badge/LinkedIn-behlanmol-160d24?style=for-the-badge&logo=linkedin&logoColor=5eead4&labelColor=ff2d95" alt="LinkedIn" /></a>
+  <a href="https://drive.google.com/file/d/1dBNRIej-9LlX-NvoC3Bra4J3lqF7OkIn/view"><img src="https://img.shields.io/badge/Resume-view-160d24?style=for-the-badge&logo=googledrive&logoColor=5eead4&labelColor=ff2d95" alt="Resume" /></a>
+  <a href="https://medium.com/@behl1anmol"><img src="https://img.shields.io/badge/Medium-@behl1anmol-160d24?style=for-the-badge&logo=medium&logoColor=5eead4&labelColor=ff2d95" alt="Medium" /></a>
+</p>
+
+## <samp>&gt; tail -f ~/blog/latest.log</samp>
+
 <!-- BLOG-POST-LIST:START -->
-- [Video Streaming Using Flask](https://medium.com/datadriveninvestor/video-streaming-using-flask-and-opencv-c464bf8473d6)
-- [An Introduction to Machine Learning](https://becominghuman.ai/an-introduction-to-machine-learning-33a1b5d3a560)
-- [Creating a user with expiry date in Linux](https://www.geeksforgeeks.org/creating-a-user-with-an-expiry-date-in-linux/)
-- [Comparison between Adjacency List and Adjacency Matrix Representations](https://www.geeksforgeeks.org/comparison-between-adjacency-list-and-adjacency-matrix-representation-of-graph/)
-- [Difference between Multilevel Feedback Queue and Multilevel Queue Algorithms](https://www.geeksforgeeks.org/difference-between-multilevel-queue-mlq-and-multi-level-feedback-queue-mlfq-cpu-scheduling-algorithms/)
-- [Difference between Conflict and View Serializability](https://www.geeksforgeeks.org/difference-between-conflict-and-view-serializability/)
-- [Difference between Lossy and Lossless Join Decomposition](https://www.geeksforgeeks.org/difference-between-lossless-and-lossy-join-decomposition/)
-- [Types of Three Address Codes](https://www.geeksforgeeks.org/types-of-three-address-codes/)
 <!-- BLOG-POST-LIST:END -->
 
----
+## <samp>&gt; htop --stats</samp>
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=behl1anmol&show_icons=true&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=behl1anmol&bg_color=160d24&color=e8e3f0&line=ff2d95&point=5eead4&area=true&area_color=3d0f66&hide_border=true" alt="contribution activity graph" width="100%" />
+</p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=behl1anmol"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=behl1anmol&background=160d24&border=2c1b45&ring=ff2d95&fire=ffd75e&currStreakLabel=5eead4&currStreakNum=e8e3f0&sideNums=e8e3f0&sideLabels=5eead4&dates=8a7fa8&stroke=2c1b45" alt="contribution streak" />
+</p>
 
-  
-  
+<!-- Trophy widget (github-profile-trophy.vercel.app) intentionally omitted:
+     the public instance returns HTTP 402 (payment required) as of 2026-07. -->
 
-[website]: https://behl1anmol.github.io/
-[twitter]: https://twitter.com/behl1anmol
-[hackerrank]: https://www.hackerrank.com/behl1anmol?hr_r=1
-[linkedin]: https://www.linkedin.com/in/anmol-b-029ba912a/
+<div align="center">
+<samp>anmol ~/projects > _</samp>
+</div>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 150" width="340" height="150" role="img" aria-label="VideoStreamingFlask repository card">
+<defs><linearGradient id="sun-light" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#ffb347"/><stop offset="1" stop-color="#ff4da6"/>
+</linearGradient></defs>
+<rect x="1" y="1" width="338" height="148" rx="10" fill="#f6f1fb" stroke="#d61f84" stroke-opacity="0.45" stroke-width="1.5"/>
+<clipPath id="msun-light-312"><circle cx="312" cy="28" r="13"/></clipPath><circle cx="312" cy="28" r="13" fill="url(#sun-light)"/><g clip-path="url(#msun-light-312)"><rect x="299" y="30.0" width="26" height="1.6" fill="#f6f1fb"/><rect x="299" y="35.0" width="26" height="2.5" fill="#f6f1fb"/><rect x="299" y="40.9" width="26" height="3.4" fill="#f6f1fb"/></g>
+<g font-family="'Cascadia Code','Courier New',ui-monospace,Menlo,monospace">
+<text x="20" y="34" font-size="16" font-weight="bold" fill="#0f766e">VideoStreamingFlask</text>
+<text x="20" y="60" font-size="11.5" fill="#2a1b3d">Streaming video with the help of Flask and</text>
+<text x="20" y="77" font-size="11.5" fill="#2a1b3d">Opencv</text>
+<circle cx="26" cy="126" r="5" fill="#3572A5"/>
+<text x="38" y="130" font-size="12" fill="#6b5a8a">Python</text>
+<text x="320" y="130" font-size="12" text-anchor="end" fill="#ffb347">★ 45</text>
+</g></svg>
