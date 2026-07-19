@@ -12,32 +12,36 @@
 
 <samp>
 
+<!-- SUMMARY:START -->
 Senior Software Engineer who ships with agile teams — sprint planning to retro — and hunts efficiency gains along the way. I build on **.NET & Azure**, design with **SOLID / HLD / LLD**, and wire **GenAI tooling** (Copilot, Claude, Codex, MCP, Microsoft Agent Framework) into real developer workflows.
+<!-- SUMMARY:END -->
 
 </samp>
 
 ## <samp>&gt; ls ~/projects --featured</samp>
 
 <!-- Cards are generated locally (scripts/generate_project_cards.py) because the
-     public github-readme-stats pin-card instance is paused. Re-run the script
-     to refresh stars/descriptions. -->
+     public github-readme-stats pin-card instance is paused. Managed by
+     .claude/skills/profile-readme/scripts/set_projects.py — edit via that. -->
+<!-- PROJECT-CARDS:START -->
 <p align="center">
   <a href="https://github.com/behl1anmol/Noesis"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/project-noesis-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/project-noesis-light.svg">
-    <img src="assets/project-noesis-dark.svg" alt="Noesis — AI-native code intelligence engine" width="290">
+    <img src="assets/project-noesis-dark.svg" alt="Noesis — An AI-native code intelligence engine that gives agents deep understanding of your codebase through hybrid retrieval, structural search, and local-first indexing." width="290">
   </picture></a>
   <a href="https://github.com/behl1anmol/MediatorLite"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/project-mediatorlite-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/project-mediatorlite-light.svg">
-    <img src="assets/project-mediatorlite-dark.svg" alt="MediatorLite — lightweight, high-performance mediator library for .NET" width="290">
+    <img src="assets/project-mediatorlite-dark.svg" alt="MediatorLite — A lightweight, high-performance mediator library for .NET, built with source generators for zero-reflection dispatch and minimal allocations." width="290">
   </picture></a>
   <a href="https://github.com/behl1anmol/VideoStreamingFlask"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/project-videostreamingflask-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/project-videostreamingflask-light.svg">
-    <img src="assets/project-videostreamingflask-dark.svg" alt="VideoStreamingFlask — video streaming with Flask and OpenCV" width="290">
+    <img src="assets/project-videostreamingflask-dark.svg" alt="VideoStreamingFlask — Streaming video with the help of Flask and Opencv" width="290">
   </picture></a>
 </p>
+<!-- PROJECT-CARDS:END -->
 
 ## <samp>&gt; cat ~/connect</samp>
 
