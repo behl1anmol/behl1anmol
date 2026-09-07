@@ -56,10 +56,10 @@ Senior Software Engineer who ships with agile teams — sprint planning to retro
 
 <!-- BLOG-POST-LIST:START -->
 - [Context Engineering: The Skill That Actually Determines How Well Your AI Works](https://medium.datadriveninvestor.com/context-engineering-the-skill-that-actually-determines-how-well-your-ai-works-455463ce77a1?source=rss-67e0d4d8b311------2)
-- [Union Types Are Finally Coming to C#](https://medium.com/c-sharp-programming/union-types-are-finally-coming-to-c-96d0e2efca62?source=rss-67e0d4d8b311------2)
-- [Stop Using DateTime.Now: Make Your C# Time Logic Testable with TimeProvider](https://medium.com/c-sharp-programming/stop-using-datetime-now-make-your-c-time-logic-testable-with-timeprovider-0f04c3c1cf14?source=rss-67e0d4d8b311------2)
-- [Everyone Gets IDisposable Wrong in C# — And IAsyncDisposable Makes It Even Harder](https://medium.com/c-sharp-programming/everyone-gets-idisposable-wrong-in-c-and-iasyncdisposable-makes-it-even-harder-fea4bfb0444d?source=rss-67e0d4d8b311------2)
-- [Mastering Model Context Protocol &lpar;MCP&rpar;: A Beginner’s Guide](https://medium.com/c-sharp-programming/mastering-model-context-protocol-mcp-a-beginners-guide-2fa83554b6d5?source=rss-67e0d4d8b311------2)
+- [Union Types Are Finally Coming to C#](https://behl1anmol.medium.com/union-types-are-finally-coming-to-c-96d0e2efca62?source=rss-67e0d4d8b311------2)
+- [Stop Using DateTime.Now: Make Your C# Time Logic Testable with TimeProvider](https://behl1anmol.medium.com/stop-using-datetime-now-make-your-c-time-logic-testable-with-timeprovider-0f04c3c1cf14?source=rss-67e0d4d8b311------2)
+- [Everyone Gets IDisposable Wrong in C# — And IAsyncDisposable Makes It Even Harder](https://behl1anmol.medium.com/everyone-gets-idisposable-wrong-in-c-and-iasyncdisposable-makes-it-even-harder-fea4bfb0444d?source=rss-67e0d4d8b311------2)
+- [Mastering Model Context Protocol &lpar;MCP&rpar;: A Beginner’s Guide](https://behl1anmol.medium.com/mastering-model-context-protocol-mcp-a-beginners-guide-2fa83554b6d5?source=rss-67e0d4d8b311------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## <samp>&gt; htop --stats</samp>
